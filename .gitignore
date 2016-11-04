@@ -2,6 +2,9 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+Content/ThirdPerson
+Content/ThirdPersonBP
+Content/Mannequin
 *.VC.db
 *.opensdf
 *.opendb
